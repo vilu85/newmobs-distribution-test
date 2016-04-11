@@ -1,7 +1,9 @@
 {
-  "1.8": {},
   "promos": {
-    "1.8-latest": "0.7.16"
+    "1.8.9-latest": "0.8.2"
+  },
+  "1.8.9": {
+    "0.8.2": "Fixes bug that caused Bandit crashing the game, fixes too high reputation requirement to heal player in Villager Doctor AI."
   },
   "homepage": ""
 }
