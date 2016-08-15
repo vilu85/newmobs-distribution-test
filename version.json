@@ -1,9 +1,13 @@
 {
   "promos": {
-    "1.8.9-latest": "0.8.4"
+    "1.8.9-latest": "0.8.4",
+    "1.9-latest": "0.9.1"
   },
   "homepage": "",
   "1.8.9": {
     "0.8.4": "- Fixes an issue in Hunter that could crash the game."
+  },
+  "1.9": {
+    "0.9.1": "Upgrade for Minecraft v1.9.0\\n- Issue with app becoming not responding in mainmenu and in-game is now fixed!\\n- Fixed issues with server incompatibility, can now be run on server too.\\n- Loot added back to chests with more improved random chance.\\n- Many other bug fixes too."
   }
 }
