@@ -1,0 +1,36 @@
+{
+  "1.1": {
+    "package": {
+      "name": "temp27713291408283357954.tmp",
+      "distributionName": "package-enc",
+      "checksum": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    "finisher": {
+      "name": "temp4235780017306360247.tmp",
+      "distributionName": "finisher-enc",
+      "checksum": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    "key": {
+      "name": "temp3890456639225474364.tmp",
+      "distributionName": "key-enc",
+      "checksum": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    }
+  },
+  "1.2": {
+    "package": {
+      "name": "temp221441487695206545745.tmp",
+      "distributionName": "package2-enc",
+      "checksum": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    "finisher": {
+      "name": "temp2840310370994114472.tmp",
+      "distributionName": "finisher2-enc",
+      "checksum": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    "key": {
+      "name": "temp325264595430141894386.tmp",
+      "distributionName": "key2-enc",
+      "checksum": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    }
+  }
+}
