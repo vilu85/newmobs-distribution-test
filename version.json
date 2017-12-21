@@ -2,7 +2,8 @@
   "promos": {
     "1.8.9-latest": "0.8.4",
     "1.9-latest": "0.9.1",
-    "1.10.2-latest": "0.10.1"
+    "1.10.2-latest": "0.10.1",
+    "1.12.2-latest": "0.10.11"
   },
   "homepage": "",
   "1.8.9": {
@@ -13,5 +14,8 @@
   },
   "1.10.2": {
     "0.10.1": "Initial version of 1.10 branch"
+  },
+  "1.12.2": {
+    "0.10.11": "Initial release of 1.12.2 branch"
   }
 }
